@@ -47,7 +47,7 @@ export function LeadershipSection() {
                 <img 
                   src={director.image} 
                   alt={director.name}
-                  className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
+                  className="w-full h-64 object-cover rounded-full transition-transform duration-300 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               </div>

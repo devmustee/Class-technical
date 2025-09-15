@@ -2,7 +2,7 @@ import { useState, useEffect } from "react"
 import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { DarkModeToggle } from "./dark-mode-toggle"
-import logo from "@/assets/logo.jpg"
+import logo from "@/assets/logo.png"
 
 export function Navigation() {
   const [isOpen, setIsOpen] = useState(false)
