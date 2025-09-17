@@ -51,8 +51,8 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Head Office</h3>
                     <p className="text-muted-foreground">
-                      123 Construction Avenue<br />
-                      Victoria Island, Lagos<br />
+                    No 102 Sapele Road <br /> 
+                    Benin City Edo State<br />
                       Nigeria
                     </p>
                   </div>
@@ -69,9 +69,8 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Phone Numbers</h3>
                     <p className="text-muted-foreground">
-                      +234 (0) 1 234 5678<br />
-                      +234 (0) 1 234 5679<br />
-                      +234 (0) 806 123 4567
+                      +234 07035505000<br />
+                      +234 0816322222
                     </p>
                   </div>
                 </div>
@@ -87,8 +86,8 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Email Addresses</h3>
                     <p className="text-muted-foreground">
-                      info@classtechnicaleng.com<br />
-                      projects@classtechnicaleng.com<br />
+                      Youssef@classtechnical.com<br />
+                      Youssefslieman@gmail.com<br />
                       admin@classtechnicaleng.com
                     </p>
                   </div>

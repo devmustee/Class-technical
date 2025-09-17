@@ -36,15 +36,15 @@ export function Navigation() {
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-      isScrolled ? "glass shadow-elegant" : "bg-transparent"
+      isScrolled ? "glass shadow-elegant" : "glass shadow-elegant"
     }`}>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <img src={logo} alt="Class Technical Engineering" className="h-10 w-10 rounded-lg object-cover" />
+            <img src={logo} alt="Class Technical Engineering Limited" className="h-10 w-10 rounded-lg object-cover" />
             <div className="text-xl font-bold text-foreground">
-              Class Technical Engineering
+              Class Technical Engineering Limited
             </div>
           </div>
 

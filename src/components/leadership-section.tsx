@@ -6,20 +6,20 @@ import director3 from "@/assets/director-3.jpg"
 export function LeadershipSection() {
   const directors = [
     {
-      name: "Director 1",
+      name: "Engr. Jolayemi Opeyemi femi",
       position: "Managing Director",
       image: director1,
       description: "Leading the company with over 20 years of experience in civil engineering and project management."
     },
     {
-      name: "Director 2", 
-      position: "Operations Director",
+      name: "Engr. Majid Youssef", 
+      position: "Civil Engineer",
       image: director2,
       description: "Overseeing operational excellence and ensuring quality delivery across all construction projects."
     },
     {
-      name: "Director 3",
-      position: "Technical Director", 
+      name: "Engr. Peter Adejoh Egbunu",
+      position: "Senior Civil Engineer", 
       image: director3,
       description: "Driving technical innovation and engineering solutions for complex infrastructure projects."
     }

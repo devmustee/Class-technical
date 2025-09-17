@@ -44,7 +44,7 @@ export function HeroSection() {
               size="lg" 
               variant="outline"
               onClick={() => scrollToSection("#contact")}
-              className="border-white text-white hover:bg-white hover:text-primary px-8 py-4 text-lg font-semibold hover-lift"
+              className="border-white text-orange-500 hover:bg-white hover:text-primary px-8 py-4 text-lg font-semibold hover-lift"
             >
               Contact Us
             </Button>
