@@ -194,9 +194,9 @@ export function ContactSection() {
               <Button 
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white hover:text-primary px-8 py-3 font-semibold"
+                className="border-white text-accent hover:bg-white hover:text-primary px-8 py-3 font-semibold"
               >
-                Download Company Profile
+                <a href="http://">Download Company Profile</a>
               </Button>
             </div>
           </div>

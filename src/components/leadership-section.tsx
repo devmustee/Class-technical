@@ -2,14 +2,21 @@ import { Card, CardContent } from "@/components/ui/card"
 import director1 from "@/assets/director-1.jpg"
 import director2 from "@/assets/director-2.jpg"
 import director3 from "@/assets/director-3.jpg"
+import director4 from '@/assets/director-4.jpeg'
 
 export function LeadershipSection() {
   const directors = [
     {
-      name: "Engr. Jolayemi Opeyemi femi",
+      name: "Mr Youssef Ibrahim",
       position: "Managing Director",
-      image: director1,
+      image: director4,
       description: "Leading the company with over 20 years of experience in civil engineering and project management."
+    },
+    {
+      name: "Engr. Jolayemi Opeyemi femi",
+      position: "General Manager",
+      image: director1,
+      description: "Managing the company with over 7 years of experience in civil engineering and project management."
     },
     {
       name: "Engr. Majid Youssef", 
@@ -37,7 +44,7 @@ export function LeadershipSection() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-4 gap-8">
           {directors.map((director, index) => (
             <Card 
               key={director.name} 

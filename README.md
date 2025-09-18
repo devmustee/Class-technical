@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# Class Technical Engineering Ltd
 
-## Project info
+## Company Overview
 
-**URL**: https://lovable.dev/projects/4f0442bc-04cc-486b-aaba-7870c610bee8
+Class Technical Engineering Ltd is a leading civil engineering company in Nigeria with over 17 years of excellence in construction and infrastructure development. Since our establishment in 2007, we have been at the forefront of delivering high-quality civil engineering solutions across Nigeria.
 
-## How can I edit this code?
+## Our Services
 
-There are several ways of editing your application.
+- **Road Construction**: High-quality road construction and maintenance
+- **Bridge Building**: Design and construction of bridges and overpasses
+- **Building Projects**: Commercial and institutional building construction
+- **Infrastructure Development**: Complete infrastructure solutions for government and private clients
 
-**Use Lovable**
+## Key Clients & Projects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4f0442bc-04cc-486b-aaba-7870c610bee8) and start prompting.
+- **NEPZA (Nigerian Export Processing Zones Authority)**: Multiple infrastructure projects
+- **NDDC (Niger Delta Development Commission)**: Regional development initiatives
+- **University of Benin**: Campus infrastructure and building projects
+- **Government Agencies**: Various federal and state government projects
 
-Changes made via Lovable will be committed automatically to this repo.
+## Our Assets
 
-**Use your preferred IDE**
+- **Asphalt Plants**: Own and operate multiple asphalt production facilities
+- **Granite Quarry**: Direct access to high-quality construction materials
+- **Heavy Equipment**: Comprehensive fleet of construction machinery
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Contact Information
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Head Office**: No 102 Sapele Road, Benin City, Edo State, Nigeria
 
-Follow these steps:
+**Phone**: 
+- +234 07035505000
+- +234 0816322222
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Email**:
+- Youssef@classtechnical.com
+- Youssefslieman@gmail.com
+- admin@classtechnicaleng.com
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Website
 
-# Step 3: Install the necessary dependencies.
-npm i
+Visit our website at [classtechnicaleng.com](https://classtechnicaleng.com) for more information about our services and projects.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## Technology Stack
+
+This website is built with modern web technologies:
+
+- **Vite** - Fast build tool and development server
+- **TypeScript** - Type-safe JavaScript
+- **React** - Modern UI library
+- **shadcn/ui** - Beautiful and accessible UI components
+- **Tailwind CSS** - Utility-first CSS framework
+
+## Development
+
+To run this project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
+
+# Build for production
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+## License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4f0442bc-04cc-486b-aaba-7870c610bee8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2024 Class Technical Engineering Ltd. All rights reserved.

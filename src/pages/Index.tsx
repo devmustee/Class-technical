@@ -59,14 +59,14 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-sm text-white/80">
-                <li>+234 (0) 1 234 5678</li>
+                <li>+234 7035505000</li>
                 <li>info@classtechnicaleng.com</li>
-                <li>Victoria Island, Lagos</li>
+                <li> No 102 Sapele Road Benin City Edo State Nigeria </li>
               </ul>
             </div>
           </div>
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-sm text-white/60">
-            <p>&copy; 2024 Class Technical Engineering Ltd. All rights reserved.</p>
+            <p>&copy; 2025 Class Technical Engineering Ltd. All rights reserved.</p>
           </div>
         </div>
       </footer>
