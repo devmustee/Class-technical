@@ -100,10 +100,20 @@ export function ContactSection() {
               <div className="h-64 bg-gradient-primary relative">
                 <div className="absolute inset-0 flex items-center justify-center text-white">
                   <div className="text-center">
-                    <MapPin className="h-12 w-12 mx-auto mb-4 opacity-80" />
-                    <p className="text-lg font-semibold">Find Us Here</p>
-                    <p className="text-white/80">Victoria Island, Lagos</p>
+                    {/* <MapPin className="h-12 w-12 mx-auto mb-4 opacity-80" /> */}
+                    {/* <p className="text-lg font-semibold">Find Us Here</p>
+                    
+                    <p className="text-white/80">Victoria Island, Lagos</p> */}
                   </div>
+                  <div className="w-full h-40">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.728671361786!2d5.627616975049996!3d6.299340193689767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1040d3e426d8329b%3A0xd467a8682d18297!2s102%20Benin%20Sapele%20Rd%2C%20State%2C%20eternit%40cybaaspace.net%20345096%2C%20Delta!5e0!3m2!1sen!2sng!4v1758232616270!5m2!1sen!2sng"
+          className="w-full h-full rounded-lg"
+          allowFullScreen
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+        />
+      </div>
                 </div>
               </div>
             </Card>
